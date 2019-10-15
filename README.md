@@ -1,7 +1,7 @@
 # Kaggle stock (GE stock since 1962) prediction using LSTM
 
 ## GE stock change overview
-![GE stock change](kaggle_stock_market_raw.html)
+![GE stock change](kaggle_stock_market_overview.png)
 
 ## GE stock prediction on test set (displayed are Zscore normalized value)
 ![GE test result](test_pred_true.png)
